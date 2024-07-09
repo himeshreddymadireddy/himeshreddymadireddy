@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @himeshreddymadireddy
 - 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning MACHINE LEARNING
-- 📫 How to reach me  twitter.com/HimeshMe
+- 📫 How to reach me  twitter.com/HimeshMee
 
 
 
