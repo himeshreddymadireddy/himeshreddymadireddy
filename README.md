@@ -10,7 +10,7 @@
 - 💡 Exploring real-world applications of AI and Data Science.
 - 🔭 Open to collaboration on exciting ML projects.
 - 📫 Reach me at **himeshmadireddy@gmail.com**.
-
+- 🌐 website - [Here](https://himeshrdy.netlify.app/)
 ---
 
 ### 📌 Tech Stack & Tools
