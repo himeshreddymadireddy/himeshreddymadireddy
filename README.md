@@ -38,7 +38,7 @@
 - **Face Recognition Attendance System** – Detects faces in an image and marks attendance.
 - **Exploratory Data Analysis (EDA) Pipeline** – Automated EDA with Pandas, Seaborn, and Matplotlib.
 - **Machine Learning Model Deployment** – Deploying ML models using Flask and FastAPI.
-- **Pdf Analyzer** - A Streamlit-based application that analyzes pdfs and generates summary and answers questions retaled to pdf
+- **Pdf Analyzer** - A Streamlit-based application that analyzes pdfs and generates summary and answers questions retaled to pdf.
   
 ---
 
